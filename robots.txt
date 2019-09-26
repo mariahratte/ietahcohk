@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eigaijaesh.roidriscoll.co.uk/sitemap.xml
